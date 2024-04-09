@@ -1,0 +1,17 @@
+﻿@model MerchDetailModel
+
+<h1>
+   @Model.Merch.ItemName
+</h1>
+<div class = "container">
+    <select class="form-select">
+        @{
+            foreach( string name in ViewBag.Vendors)
+            {
+               <option>@name</option> 
+            }
+
+
+        }
+    </select>
+</div>
