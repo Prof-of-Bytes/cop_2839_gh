@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|c:\\users\\vernon.james\\onedrive - st. petersburg college\\2839-source\\codebase-development\\codebase-development\\studentexamples\\themerchshop\\dataaccess\\merchshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|solutionrelative:dataaccess\\merchshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|c:\\users\\vernon.james\\onedrive - st. petersburg college\\2839-source\\codebase-development\\codebase-development\\studentexamples\\themerchshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|c:\\users\\vernon.james\\onedrive - st. petersburg college\\2839-source\\codebase-development\\codebase-development\\studentexamples\\themerchshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|c:\\users\\vernon.james\\onedrive - st. petersburg college\\2839-source\\codebase-development\\codebase-development\\studentexamples\\themerchshop\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|solutionrelative:wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|c:\\users\\vernon.james\\onedrive - st. petersburg college\\2839-source\\codebase-development\\codebase-development\\studentexamples\\themerchshop\\wwwroot\\bootstrap\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|solutionrelative:wwwroot\\bootstrap\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|c:\\users\\vernon.james\\onedrive - st. petersburg college\\2839-source\\codebase-development\\codebase-development\\studentexamples\\themerchshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AFD7AE2B-ECCA-4516-A5F5-D11FC924FBE4}|TheMerchShop.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 368,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MerchShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\DataAccess\\MerchShopContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\MerchShopContext.cs",
+              "ToolTip": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\DataAccess\\MerchShopContext.cs",
+              "RelativeToolTip": "DataAccess\\MerchShopContext.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAGMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:40:58.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:36:23.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+              "ToolTip": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-02T20:23:45.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\wwwroot\\bootstrap\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "wwwroot\\bootstrap\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\wwwroot\\bootstrap\\js\\bootstrap.js",
+              "RelativeToolTip": "wwwroot\\bootstrap\\js\\bootstrap.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-02T20:23:40.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-02T20:19:35.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vernon.james\\OneDrive - St. Petersburg College\\2839-source\\CodeBase-development\\CodeBase-development\\StudentExamples\\TheMerchShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T20:17:05.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
